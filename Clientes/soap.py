@@ -1,5 +1,5 @@
-import zeep
-import json
+import zeep  #Librerias
+import json  
 
 #url del servicio Web
 wsdl = 'http://localhost:7777/ws/AcademicoWebService?wsdl'
